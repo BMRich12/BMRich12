@@ -10,4 +10,4 @@ you spend on cottages, gardens, rivers and trains.
 - Every tree, cottage and gnome is drawn in code, with no image files for the map
 - Your step counts never leave your phone
 
-[App Store](https://apps.apple.com/app/apple-store/id6817135263?pt=127985050&ct=github&mt=8) · [stephaven.app](https://stephaven.app) · [TikTok](https://www.tiktok.com/@nlappconnect) · [YouTube](https://www.youtube.com/@StepHavenOfficial)
+[App Store](https://apps.apple.com/app/apple-store/id6817135263?pt=127985050&ct=github&mt=8) · [stephaven.app](https://stephaven.app) · [TikTok](https://www.tiktok.com/@stephavenapp) · [YouTube](https://www.youtube.com/@StepHavenOfficial) · [Bluesky](https://bsky.app/profile/stephaven.app)
